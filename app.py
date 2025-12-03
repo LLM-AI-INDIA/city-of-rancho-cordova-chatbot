@@ -10,7 +10,7 @@ load_dotenv()
 client = OpenAI()
 
 # Set up the page layout
-st.set_page_config(page_title="Spam Classification Model", layout="wide")
+st.set_page_config(page_title="City of Rancho Cordova", layout="wide")
 # Apply blue sidebar styling
 st.markdown(
     """
